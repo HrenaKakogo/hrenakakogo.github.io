@@ -1,0 +1,19 @@
+{
+  "background_color": "#ffffff",
+  "dir": "auto",
+  "display": "fullscreen",
+  "name": "Слонярик - словарик",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "Слонярик - словарик",
+  "start_url": "https://hrenakakogo.github.io/",
+  "theme_color": "#ffffff",
+  "id": "Slonyarik",
+  "description": "Слонярик - словарик",
+  "lang": "ru",
+  "categories": [
+    "education",
+    "games",
+    "kids"
+  ]
+}
